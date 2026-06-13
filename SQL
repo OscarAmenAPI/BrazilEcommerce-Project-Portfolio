@@ -1,3 +1,0 @@
-## SQL Queries
-
-[SQL Analysis](SQL/BrazilData.sql)
