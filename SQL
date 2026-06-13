@@ -1,3 +1,3 @@
 ## SQL Queries
 
-[SQL Analysis](SQL/Brazil_Ecommerce_Analysis.sql)
+[SQL Analysis](SQL/BrazilData.sql)
