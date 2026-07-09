@@ -1,4 +1,4 @@
-# Brazil E-Commerce Sales Analysis 
+# Brazil E-Commerce Sales Analysis Project
 SQL & Power BI
 
 ## Project Overview
