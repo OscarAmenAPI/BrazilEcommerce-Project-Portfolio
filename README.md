@@ -33,7 +33,7 @@ The analysis was designed to answer the following business questions:
 
 ## Dashboard Preview
 
-![Dashboard](BrazilEcoomerceDashboard.PNG)
+![Dashboard](BrazilEccomerceDashboard.png)
 
 ---
 
